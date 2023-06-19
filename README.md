@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SNOOPEANUTS
 - 👀 I’m interested in Data Science and Cyber Security
 - 🌱 I’m currently learning Zero trust systems
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on anything cybersecurity or any problem you might have on data science
 - 📫 How to reach me twitter-jay66762550, LinkedIn-jay-kibet-a48b4a1a2
 
 
